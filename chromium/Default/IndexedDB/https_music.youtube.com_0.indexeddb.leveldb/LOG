@@ -1,0 +1,21 @@
+2024/01/29-15:00:02.741 679 Reusing MANIFEST /home/dartey/.config/chromium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/29-15:00:02.741 679 Recovering log #66
+2024/01/29-15:00:02.913 679 Reusing old log /home/dartey/.config/chromium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000066.log 
+2024/01/29-15:00:04.960 5d5 Compacting 1@1 + 1@2 files
+2024/01/29-15:00:05.046 5d5 Generated table #69@1: 611 keys, 41672 bytes
+2024/01/29-15:00:05.047 5d5 Compacted 1@1 + 1@2 files => 41672 bytes
+2024/01/29-15:00:05.214 5d5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/29-16:19:49.332 5d5 Level-0 table #71: started
+2024/01/29-16:19:49.915 5d5 Level-0 table #71: 908166 bytes OK
+2024/01/29-16:19:50.059 5d5 Delete type=2 #65
+2024/01/29-16:19:50.059 5d5 Delete type=0 #66
+2024/01/29-16:19:50.059 5d5 Delete type=2 #67
+2024/01/29-17:13:04.486 5d5 Compacting 1@1 + 1@2 files
+2024/01/29-17:13:04.701 5d5 Generated table #72@1: 472 keys, 37638 bytes
+2024/01/29-17:13:04.701 5d5 Compacted 1@1 + 1@2 files => 37638 bytes
+2024/01/29-17:13:04.834 5d5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/29-17:13:04.835 5d5 Delete type=2 #71
+2024/01/29-17:13:04.835 5d5 Delete type=2 #69
+2024/01/29-18:34:25.770 611 Level-0 table #74: started
+2024/01/29-18:34:26.005 611 Level-0 table #74: 858837 bytes OK
+2024/01/29-18:34:26.265 611 Delete type=0 #70

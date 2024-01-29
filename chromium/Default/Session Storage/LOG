@@ -1,0 +1,21 @@
+2024/01/29-14:59:46.295 4 Reusing MANIFEST /home/dartey/.config/chromium/Default/Session Storage/MANIFEST-000001
+2024/01/29-14:59:46.298 4 Recovering log #32
+2024/01/29-14:59:46.506 4 Reusing old log /home/dartey/.config/chromium/Default/Session Storage/000032.log 
+2024/01/29-14:59:57.653 4 Level-0 table #36: started
+2024/01/29-14:59:58.414 4 Level-0 table #36: 21452 bytes OK
+2024/01/29-14:59:58.889 4 Delete type=0 #32
+2024/01/29-17:14:22.276 6 Level-0 table #38: started
+2024/01/29-17:14:22.388 6 Level-0 table #38: 101400 bytes OK
+2024/01/29-17:14:22.498 6 Delete type=0 #35
+2024/01/29-17:14:22.499 6 Compacting 4@0 + 1@1 files
+2024/01/29-17:14:22.689 6 Generated table #39@0: 1298 keys, 130296 bytes
+2024/01/29-17:14:22.689 6 Compacted 4@0 + 1@1 files => 130296 bytes
+2024/01/29-17:14:22.772 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/29-17:14:22.782 6 Delete type=2 #33
+2024/01/29-17:14:22.782 6 Delete type=2 #27
+2024/01/29-17:14:22.783 6 Delete type=2 #36
+2024/01/29-17:14:22.783 6 Delete type=2 #38
+2024/01/29-17:14:22.783 6 Delete type=2 #30
+2024/01/29-18:05:15.153 6 Level-0 table #41: started
+2024/01/29-18:05:15.212 6 Level-0 table #41: 21107 bytes OK
+2024/01/29-18:05:15.272 6 Delete type=0 #37
