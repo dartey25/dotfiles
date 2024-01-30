@@ -1,6 +1,0 @@
-2024/01/29-17:16:10.386 5d4 Creating DB /home/dartey/.config/chromium/Default/IndexedDB/https_updf.com_0.indexeddb.leveldb since it was missing.
-2024/01/29-17:16:10.720 5d4 Reusing MANIFEST /home/dartey/.config/chromium/Default/IndexedDB/https_updf.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/29-17:44:34.928 5d5 Level-0 table #5: started
-2024/01/29-17:44:34.994 5d5 Level-0 table #5: 8373 bytes OK
-2024/01/29-17:44:35.053 5d5 Delete type=0 #3
-2024/01/29-17:44:35.054 5d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2024/01/29-17:18:54.614 5d4 Creating DB /home/dartey/.config/chromium/Default/IndexedDB/https_docs.howly.com_0.indexeddb.leveldb since it was missing.
-2024/01/29-17:18:55.140 5d4 Reusing MANIFEST /home/dartey/.config/chromium/Default/IndexedDB/https_docs.howly.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/29-17:18:55.745 5d4 Level-0 table #5: started
-2024/01/29-17:18:55.884 5d4 Level-0 table #5: 1314 bytes OK
-2024/01/29-17:18:56.053 5d4 Delete type=0 #3
-2024/01/29-17:18:56.054 5d4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

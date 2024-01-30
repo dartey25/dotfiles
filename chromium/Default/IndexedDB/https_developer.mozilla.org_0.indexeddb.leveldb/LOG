@@ -1,6 +1,0 @@
-2024/01/29-17:32:48.224 5d4 Creating DB /home/dartey/.config/chromium/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb since it was missing.
-2024/01/29-17:32:48.358 5d4 Reusing MANIFEST /home/dartey/.config/chromium/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/29-17:32:51.260 5d5 Level-0 table #5: started
-2024/01/29-17:32:51.311 5d5 Level-0 table #5: 401 bytes OK
-2024/01/29-17:32:51.367 5d5 Delete type=0 #3
-2024/01/29-17:32:51.368 611 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
