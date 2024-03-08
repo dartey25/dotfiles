@@ -32,4 +32,8 @@ return {
     vim.api.nvim_set_keymap("i", "jk", "<Esc>", {}),
     { "rcarriga/nvim-notify", enabled = false },
   },
+  {
+    "mskelton/termicons.nvim",
+    requires = { "nvim-tree/nvim-web-devicons" },
+  },
 }
