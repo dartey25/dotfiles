@@ -2,9 +2,11 @@
 PATH=$HOME/bin:/usr/local/bin:$PATH
 BUN_INSTALL="/home/dartey/.bun"
 PATH="$BUN_INSTALL/bin:$PATH"
+PATH="$PATH:$(go env GOPATH)/bin"
 export PATH
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
+export PKG_CONFIG_PATH="/home/dartey"
 
 ZSH_THEME="robbyrussell"
 
